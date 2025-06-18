@@ -1,0 +1,12 @@
+﻿Foods,Price/Serving (INR),Serving Size,Calories,Protein (g),Total_Fat (g),Carbohydrates (g),Dietary_Fiber (g),Calcium (mg),Iron (mg),Vit_A (µg),Vit_C (mg)
+Rice (Raw),5,100 g,130,2.7,0.3,28,0.4,10,0.2,0,0
+Wheat Flour,4,100 g,364,12,1.5,76,2.5,15,1.2,0,0
+Lentils (Dal),10,100 g,116,9,0.4,20,8,56,2,15,1
+Spinach (Palak),4,100 g,23,2.9,0.4,3.6,2.2,99,2.7,469,28
+Potato,3,100 g,77,2,0.1,17,2.2,10,0.8,10,19.7
+Tomato,8,100 g,18,0.9,0.2,3.9,1.2,10,0.3,833,13.7
+Milk ,14,200 ml,124,3.3,7.7,12,0,240,0.1,120,0
+Carrots,8,100 g,41,0.9,0.2,9.6,2.8,33,0.3,835,5.9
+Chickpeas,10,100 g,164,8.9,2.6,27.4,7.6,49,2.9,27,0
+,,,,,,,,,,,
+,,Minimum daily intake,650,15,10,100,8,233,6,260,13
